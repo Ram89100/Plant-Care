@@ -1,0 +1,46 @@
+.aboutus-container {
+  padding: 2rem;
+  background-color: #f4f4f4;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.aboutus-component h2 {
+  font-size: 2.5rem;
+  color: #388E3C;
+  margin-bottom: 20px;
+}
+
+.aboutus-component h3 {
+  font-size: 1.8rem;
+  color: #388E3C;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.aboutus-component p {
+  font-size: 1.2rem;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.aboutus-component ul {
+  list-style: none;
+  padding: 0;
+}
+
+.aboutus-component ul li {
+  font-size: 1.1rem;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.aboutus-component a {
+  color: #388E3C;
+  text-decoration: none;
+}
+
+.aboutus-component a:hover {
+  text-decoration: underline;
+}

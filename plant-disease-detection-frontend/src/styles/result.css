@@ -1,0 +1,18 @@
+ 
+.result-component {
+    background-color: #f9f9f9;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .result-component h2 {
+    font-size: 2rem;
+    color: #4CAF50;
+  }
+  
+  .result-component p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
