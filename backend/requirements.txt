@@ -28,7 +28,7 @@ mdurl
 ml_dtypes
 networkx
 numpy
-opencv-python
+opencv-contrib-python==4.6.0.66
 orjson
 packaging
 pandas
@@ -45,8 +45,8 @@ requests
 scipy
 SQLAlchemy
 starlette
-torch  
-torchvision
+torch==1.13.1+cpu
+torchvision==0.14.1
 typer
 typing_extensions
 tzdata
@@ -57,4 +57,3 @@ uvicorn
 watchfiles
 websockets
 setuptools
-distutils
