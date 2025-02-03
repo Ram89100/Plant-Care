@@ -1,3 +1,6 @@
+pip>=23.0
+setuptools>=65.0
+wheel
 absl-py
 annotated-types
 anyio
@@ -45,8 +48,7 @@ requests
 scipy
 SQLAlchemy
 starlette
-torch==1.13.1+cpu -f https://download.pytorch.org/whl/cpu/torch_stable.html
-
+torch==1.13.1+cpu
 torchvision==0.14.1
 typer
 typing_extensions
@@ -58,3 +60,4 @@ uvicorn
 watchfiles
 websockets
 setuptools
+distuti
