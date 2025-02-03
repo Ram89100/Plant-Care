@@ -57,3 +57,5 @@ urllib3==2.2.2
 uvicorn==0.34.0
 watchfiles==1.0.4
 websockets==14.2
+setuptools
+distutils
